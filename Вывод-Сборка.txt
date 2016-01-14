@@ -1,0 +1,1 @@
+﻿1>------ Сборка начата: проект: ConsoleApplication5, Конфигурация: Debug Any CPU ------
